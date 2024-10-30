@@ -1,0 +1,4 @@
+name: AntiMove
+version: '1.0-SNAPSHOT'
+main: uk.geren.antiMove.AntiMove
+api-version: '1.21'
